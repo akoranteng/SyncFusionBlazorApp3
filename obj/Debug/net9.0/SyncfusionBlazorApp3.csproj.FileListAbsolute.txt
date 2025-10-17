@@ -159,3 +159,9 @@ C:\Users\AKora\source\repos\SyncfusionBlazorAppDemos\SyncfusionBlazorApp3\obj\De
 C:\Users\AKora\source\repos\SyncfusionBlazorAppDemos\SyncfusionBlazorApp3\obj\Debug\net9.0\SyncfusionBlazorApp3.dll
 C:\Users\AKora\source\repos\SyncfusionBlazorAppDemos\SyncfusionBlazorApp3\obj\Debug\net9.0\refint\SyncfusionBlazorApp3.dll
 C:\Users\AKora\source\repos\SyncfusionBlazorAppDemos\SyncfusionBlazorApp3\obj\Debug\net9.0\SyncfusionBlazorApp3.pdb
+C:\Users\AKora\source\repos\SyncfusionBlazorAppDemos\SyncfusionBlazorApp3\bin\Debug\net9.0\SyncfusionBlazorApp3.deps.json
+C:\Users\AKora\source\repos\SyncfusionBlazorAppDemos\SyncfusionBlazorApp3\bin\Debug\net9.0\SyncfusionBlazorApp3.runtimeconfig.json
+C:\Users\AKora\source\repos\SyncfusionBlazorAppDemos\SyncfusionBlazorApp3\bin\Debug\net9.0\SyncfusionBlazorApp3.pdb
+C:\Users\AKora\source\repos\SyncfusionBlazorAppDemos\SyncfusionBlazorApp3\obj\Debug\net9.0\SyncfusionBlazorApp3.sourcelink.json
+C:\Users\AKora\source\repos\SyncfusionBlazorAppDemos\SyncfusionBlazorApp3\obj\Debug\net9.0\SyncfusionBlazorApp3.genruntimeconfig.cache
+C:\Users\AKora\source\repos\SyncfusionBlazorAppDemos\SyncfusionBlazorApp3\obj\Debug\net9.0\ref\SyncfusionBlazorApp3.dll

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SyncfusionBlazorApp3")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dc6ccf5b0bf639c3fe61d2e7295e02e701dbb918")]
 [assembly: System.Reflection.AssemblyProductAttribute("SyncfusionBlazorApp3")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SyncfusionBlazorApp3")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

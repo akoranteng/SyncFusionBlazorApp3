@@ -45,7 +45,7 @@ Code
 
 Here’s a visual breakdown of the Syncfusion Card component used in this project:
 
-![Syncfusion Card Anatomy](Images/card-anatomy.png)
+![Syncfusion Card Anatomy](Images/Sync__card__anatomy.png)
 
 ---
 
